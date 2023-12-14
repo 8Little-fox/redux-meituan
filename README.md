@@ -16,5 +16,4 @@ npm run serve
 npm run start
 
 ```
-
-![Uploading 7131702540246_.pic.jpg…]()
+![WechatIMG713](https://github.com/8Little-fox/redux-meituan/assets/52819960/05820ca6-b80d-49f2-aa45-9eb9e334fc8f)
