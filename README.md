@@ -16,3 +16,5 @@ npm run serve
 npm run start
 
 ```
+
+![Uploading 7131702540246_.pic.jpg…]()
